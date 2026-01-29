@@ -6,6 +6,8 @@ This project was developed individually within the scope of the FET312 Deep Lear
 Two datasets were used:
 - DeepFashion2 (public dataset)
 - A custom curated outfit dataset created during the project
+Dataset link: https://github.com/switchablenorms/DeepFashion2
+
 
 ## Models
 - ResNet18
